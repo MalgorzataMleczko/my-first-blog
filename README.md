@@ -1,1 +1,10 @@
-# my-first-blog
+my-first-blog
+=============
+
+# Info
+
+Ma Mleczko
+
+# Purpose
+
+test
